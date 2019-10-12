@@ -1,7 +1,7 @@
 {
   "name": "moviedex-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Heather Jarvie & Justin Jeffrey",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,8 @@
     "dev": "nodemon server.js"
   },
   "engines": {
-       "node": "10.16.3"
-     },
+    "node": "10.16.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thersis94/moviedex-working-with-datasets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thersis94/moviedex-working-with-datasets/issues"
+  },
+  "homepage": "https://github.com/Thersis94/moviedex-working-with-datasets#readme"
 }
